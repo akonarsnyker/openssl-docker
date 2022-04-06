@@ -1,4 +1,4 @@
-FROM alpine
+FROM alpine:3.15.4
 
 MAINTAINER Maik Ellerbrock (https://github.com/ellerbrock)
 
